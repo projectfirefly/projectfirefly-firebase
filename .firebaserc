@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "firefly-firebase-test"
+    "production": "firefly-firebase-test",
+    "staging": "fir-staging-c3cea"
   }
 }
